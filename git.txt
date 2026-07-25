@@ -1,0 +1,7 @@
+git status ->  Muestra el estado de los archivos WD/Stage
+git checkout -b 'RAMA' ->  Crea nueva RAMA
+git checkout 'RAMA' ->  Me muevo a RAMA
+git commit -m 'MENSAJE' ->  Commiteo a repo
+git log ->  Veo historial de commits 
+git merge RAMA ->  Traigo RAMA a la rama actual donde estoy parado
+git add . -> agrega cambios 
